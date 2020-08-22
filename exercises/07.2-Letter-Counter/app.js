@@ -4,7 +4,8 @@ let counts = {};
 for(let character of par){
     if(character != ' '){
         if(character.toLowerCase() in counts){
-            counts[character.toLowerCase()] = counts[character.toLowerCase()] + 1;
+            counts[character.toLowerCase()] = counts
+            [character.toLowerCase()] + 1;
         } else {
             counts[character.toLowerCase()] = 1;
         }
