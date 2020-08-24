@@ -269,7 +269,7 @@
         {
             "slug": "12-Delete-element",
             "title": "12-Delete-element",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Delete-element",
             "translations": [
                 "es",
