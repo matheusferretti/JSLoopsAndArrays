@@ -324,7 +324,7 @@
         {
             "slug": "17-The-for-loop",
             "title": "17-The-for-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/17-The-for-loop",
             "translations": [
                 "es",
