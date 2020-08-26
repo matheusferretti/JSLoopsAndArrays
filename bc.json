@@ -335,7 +335,7 @@
         {
             "slug": "18-Nested-arrays",
             "title": "18-Nested-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Nested-arrays",
             "translations": [
                 "es",
