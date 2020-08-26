@@ -302,7 +302,7 @@
         {
             "slug": "15-Max-integer-from-array",
             "title": "15-Max-integer-from-array",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Max-integer-from-array",
             "translations": [
                 "es",
