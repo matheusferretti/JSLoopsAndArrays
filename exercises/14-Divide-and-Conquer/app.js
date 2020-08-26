@@ -4,22 +4,22 @@ let even = [];
 let odeven = [];
 
 // your code here
-let mergeTwoList = (list_of_numbers) => {
-    for(let i = 0; i < list_of_numbers.length; i++){
+let mergeTwoList = (arr) => {
+    for(let i = 0; i < arr.length; i++){
        
-        if(list_of_numbers[i]%2 === 0)
+        if(arr[i] % 2 === 0)
         {
-            even.push(list_of_numbers[i]);
+            even.push(arr[i]);
         }
         else
         {
-            odd.push(list_of_numbers[i]);
+            odd.push(arr[i]);
         }
     }
     odeven.push(odd);
     odeven.push(even);
-    return odeven;
+    console.log(odeven);
 }
     
 
-console.log(mergeTwoList(list_of_numbers).toString());
+console.log(mergeTwoList(list_of_numbers));
