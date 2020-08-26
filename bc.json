@@ -313,7 +313,7 @@
         {
             "slug": "16-Foreach-min-val",
             "title": "16-Foreach-min-val",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Foreach-min-val",
             "translations": [
                 "es",
