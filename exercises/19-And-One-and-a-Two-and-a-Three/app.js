@@ -3,6 +3,12 @@ contact = {
     phone: "321-321-4321",
     email: "test@test.com"
 }
-for(key in contact){
+let result = "";
+for(let key in contact){
     // Code goes here
+    result += key + " : " + contact[key] + " ";
 }
+
+    console.log(result);
+
+
